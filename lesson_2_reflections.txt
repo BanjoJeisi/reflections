@@ -1,5 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
     git creates a directory .git, where I decided to start.
     Next I have to choose which file to add in the staging area and next to commit
+
 How is the staging area different from the working directory and the repository? What value do you think it offers?
     It helps to organize better the commits
+    
+How can you use the staging area to make sure you have one commit per logical change?
